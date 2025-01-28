@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.aee4e51c.css",
-    "main.js": "/static/js/main.90edea94.js",
+    "main.js": "/static/js/main.a307596d.js",
     "static/js/453.4297e0f3.chunk.js": "/static/js/453.4297e0f3.chunk.js",
     "static/media/13.png": "/static/media/13.2d8f078c83b45145d9a6.png",
     "static/media/image1.jpg": "/static/media/image1.cd02365a5f0e54180dc4.jpg",
     "static/media/team-2.jpg": "/static/media/team-2.5eed8673122c4f80d66c.jpg",
     "static/media/bg na.png": "/static/media/bg na.6e89d50b6f2025b0ee64.png",
     "static/media/1.png": "/static/media/1.d8385ecb82fe26c4829b.png",
+    "static/media/PHY.png": "/static/media/PHY.0badb54bccb60b137d1d.png",
     "static/media/bg nc.png": "/static/media/bg nc.fe7e6cae54965203914c.png",
     "static/media/md.png": "/static/media/md.23a8fb309ed5885f2823.png",
-    "static/media/Physiptherapy.png": "/static/media/Physiptherapy.7b497f8180d1c2121274.png",
     "static/media/5.png": "/static/media/5.fbaf620529e852871145.png",
     "static/media/bg tc.png": "/static/media/bg tc.bb55ddc6222fa8d23731.png",
     "static/media/8.png": "/static/media/8.b45537fd6a6e1d7efbe3.png",
@@ -62,11 +62,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.aee4e51c.css.map": "/static/css/main.aee4e51c.css.map",
-    "main.90edea94.js.map": "/static/js/main.90edea94.js.map",
+    "main.a307596d.js.map": "/static/js/main.a307596d.js.map",
     "453.4297e0f3.chunk.js.map": "/static/js/453.4297e0f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aee4e51c.css",
-    "static/js/main.90edea94.js"
+    "static/js/main.a307596d.js"
   ]
 }
